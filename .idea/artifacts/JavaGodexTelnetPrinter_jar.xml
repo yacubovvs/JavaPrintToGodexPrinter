@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaGodexTelnetPrinter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaGodexTelnetPrinter_jar</output-path>
+    <root id="archive" name="JavaGodexTelnetPrinter.jar">
+      <element id="module-output" name="JavaGodexTelnetPrinter" />
+    </root>
+  </artifact>
+</component>
